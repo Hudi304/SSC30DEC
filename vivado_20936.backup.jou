@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Dec  3 19:58:10 2020
+# Process ID: 20936
+# Current directory: C:/Users/Hudi/Desktop/SSCproj/SSCProjVivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent29416 C:\Users\Hudi\Desktop\SSCproj\SSCProjVivado\finalProject.xpr
+# Log file: C:/Users/Hudi/Desktop/SSCproj/SSCProjVivado/vivado.log
+# Journal file: C:/Users/Hudi/Desktop/SSCproj/SSCProjVivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Hudi/Desktop/UCshimbat/ProjSSC/finalProject.xpr
+update_compile_order -fileset sources_1

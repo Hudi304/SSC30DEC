@@ -1,0 +1,16 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sim_1/new/MainTB.vhd,1607104252,vhdl,,,,maintb,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/ALU.vhd,1607110578,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,alu,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Difference_Exponents.vhd,1607112797,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,difference_exponents,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Increment.vhd,1607104252,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,increment,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Load_Register.vhd,1607104252,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,load_register,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/MUX_2_1.vhd,1607104252,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,mux_2_1,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,1607112148,vhdl,,,,main,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/NumbersNature.vhd,1607104252,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,numbersnature,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Rounding.vhd,1607104379,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,rounding,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Shift_Left_Right_Register.vhd,1607104252,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,shift_left_right_register,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/UC.vhd,1607112797,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,uc,,,,,,,,
+D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Zero_Mantissa.vhd,1607104252,vhdl,D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.srcs/sources_1/new/Main.vhd,,,zero_mantissa,,,,,,,,

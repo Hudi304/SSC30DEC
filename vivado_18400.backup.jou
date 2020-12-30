@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Dec  4 22:05:01 2020
+# Process ID: 18400
+# Current directory: D:/My Designs - Vivado/proiect github/ProjSSC ALU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent30004 D:\My Designs - Vivado\proiect github\ProjSSC ALU\finalProject.xpr
+# Log file: D:/My Designs - Vivado/proiect github/ProjSSC ALU/vivado.log
+# Journal file: D:/My Designs - Vivado/proiect github/ProjSSC ALU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/My Designs - Vivado/proiect github/ProjSSC ALU/finalProject.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source MainTB.tcl
+run 10000ns
+close_sim
+launch_simulation
+source MainTB.tcl
+run 10000ns
+close_sim
